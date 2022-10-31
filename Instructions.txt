@@ -1,0 +1,14 @@
+- Port Checker Instructions - Made by Logan Brown - Tyler Technologies -
+
+- Installation -
+
+Step 1. Install NodeJS (Required) by running the "Node Installer" shortcut
+
+Step 2. Install the Required NodeJS modules by running the "Module Installer" shortcut
+
+Step 3. Run the port checker tool by running the "Port Checker" shortcut
+
+Running the program will generate a log file
+
+- Uninstalling -
+For a clean uninstall of NodeJS and all of the installed modules, run the "Node Uninstaller" shortcut
